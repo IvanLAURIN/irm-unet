@@ -132,3 +132,5 @@ dmypy.json
 models/
 datasets/
 preprocessed_data/
+name_mapping.csv
+survival_data.csv
