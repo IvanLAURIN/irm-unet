@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Données Pré-calculées
+models/
+datasets/
+preprocessed_data/
